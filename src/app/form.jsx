@@ -132,7 +132,6 @@ class Form extends React.Component {
                 <span>FirstName</span>
                 <em className="mandatory">*</em>
               </label>
-
               <input
                 type="text"
                 name="firstName"

@@ -122,10 +122,17 @@ h1 {
   background-color: #dfdcdc;
 }
 .key-container {
-  flex: 1;
+  flex: 2;
   padding: 10px;
 }
 .value-container {
   flex: 3;
   padding: 10px;
+}
+.addressBottom {
+  font-family: Merriweather;
+  font-size: 11px;
+  color: #888888;
+  font-style: normal;
+  font-weight: 400;
 }
